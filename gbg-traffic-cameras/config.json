@@ -1,0 +1,7 @@
+{
+    "api_base": "http://data.goteborg.se/TrafficCamera/v1.0/TrafficCameras/{}?format={}",
+    "api_format": "json",
+    "app_id": "YOUR_GBG_STAD_OPEN_DATA_APP_ID",
+    "stylesheet": "https://codepen.io/chriddyp/pen/bWLwgP.css",
+    "mapbox_token": "YOUR_MAP_BOX_KEY_HERE"
+}
